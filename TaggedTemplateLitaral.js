@@ -6,4 +6,6 @@ const modifier = (strings, ...value) => {
  }, "")
 }
 
+oi kire
+
 console.log(modifier`My first name is ${name1} and second name is ${name2}`);
